@@ -1,10 +1,9 @@
 # AI4ENG Project
 # Proyecto Fraude en Transacciones Electrónicas
-# ENTREGA 2: Informe + Notebooks + VIDEO
+# ENTREGA 3: Informe + Notebooks + VIDEO
 
 ## Miembros del grupo
 
-- Aura Luz Moreno Díaz, CC 43758500, Ingeniería Industrial
 - Evelyn Zharick Saez Gallego, CC 1006776490, Ingeniería Ambiental
 
 ## Datos
